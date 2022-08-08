@@ -1,0 +1,5 @@
+com\examplefuelorder\orderapi\Order.class
+com\examplefuelorder\orderapi\OrderRepository.class
+com\examplefuelorder\orderapi\OrderapiApplication.class
+com\examplefuelorder\orderapi\OrderController.class
+com\examplefuelorder\orderapi\InitializationComponent.class
